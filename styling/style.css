@@ -203,7 +203,7 @@ header .bars {
 .landing {
   height: 100vh;
   background-color: #333;
-  background-image: url(/img/landing.jpg);
+  background-image: url(./img/landing.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -286,14 +286,14 @@ header .bars {
 /* end landing */
 /* start about */
 .portofolio .overlay {
-  background-image: url(/img/portofolio-left.png);
+  background-image: url(./img/portofolio-left.png);
   background-repeat: no-repeat;
   background-size: 100px 400px;
 }
 
 .portofolio .container {
   background-color: rgba(255, 255, 255, 0.877);
-  background-image: url(/img/portofolio-right.png);
+  background-image: url(./img/portofolio-right.png);
   background-repeat: no-repeat;
   background-size: 50px 200px;
   background-position: right bottom;
@@ -427,7 +427,7 @@ header .bars {
   left: 0;
   width: 100%;
   height: var(--per);
-  background-image: url(/img/wave.png);
+  background-image: url(./img/wave.png);
   background-repeat: repeat-x;
   animation: wave 3s infinite linear;
   background-size: 1000px 100%;
